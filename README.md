@@ -15,6 +15,8 @@ Find out understaffing and overstaffing across all states.
 Find out high, medium, low priority vulnerable population states.
 Find out relationship between age and influenza death rates.
 
-Video Recording Link: https://youtu.be/Lhyi_sWnbPQ?si=hYMTIai6cYxQbxbL 
+Video Recording Link: https://youtu.be/Lhyi_sWnbPQ?si=hYMTIai6cYxQbxbL
+
+
 Tableau Storyboard: https://public.tableau.com/app/profile/aarthi.subramanian/viz/Task2_9_17156839400270/Task2_9?publish=yes
 
